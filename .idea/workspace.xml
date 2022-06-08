@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="393b3c89-73a7-4c51-8776-ee835ecf0ff0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desktop-lab-campus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nurawiguna/sesi3/array_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nurawiguna/sesi3/array_2_looping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nurawiguna/sesi3/string_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nurawiguna/sesi4/diskusi4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +44,7 @@
       <recent name="nurawiguna.sesi5.tugas2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.diskusi4">
+  <component name="RunManager" selected="Application.nomor1">
     <configuration name="array_2_looping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nurawiguna.sesi3.array_2_looping" />
       <module name="desktop-lab-campus" />
@@ -81,6 +71,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="nomor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nurawiguna.sesi7.tugas3.nomor1" />
+      <module name="desktop-lab-campus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nurawiguna.sesi7.tugas3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="nurawiguna.sesi3.array_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nurawiguna.sesi3.array_1" />
       <module name="desktop-lab-campus" />
@@ -96,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.nomor1" />
         <item itemvalue="Application.diskusi4" />
         <item itemvalue="Application.array_2_looping" />
         <item itemvalue="Application.nurawiguna.sesi3.array_1" />
