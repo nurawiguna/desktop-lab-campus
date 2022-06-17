@@ -292,7 +292,16 @@ public class diskusi8 extends javax.swing.JFrame {
 
     private void btnTambahActionPerformed(java.awt.event.ActionEvent evt) {                                          
         // TODO add your handling code here:
-        insertData();
+        if (txtNIM.getText().equals("") || txtNama.getText().equals("") || txtAlamat.getText().equals("")
+                || txtPhone.getText().equals("") || jComboBox1.getSelectedIndex() == 0)
+        {
+//             JOptionPane.(null, "Data tidak boleh kosong. '");
+             JOptionPane.showMessageDialog(null, "Data tidak boleh kosong");
+             txtNIM.requestFocus();
+        } else {
+            insertData();
+        }
+        
 
     }                                         
 
