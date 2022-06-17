@@ -1,0 +1,1 @@
+- Jika akan menggunakan code ini, harap menimport library file mysql connector nya ke dalam project ini. 
